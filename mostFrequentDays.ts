@@ -1,6 +1,6 @@
 export function mostFrequentDays(year: number): {} {
     var date = new Date(year,1,1);
-    var res = {};
+    var res : any = {};
     var max = 0;
     var skip = false;
     var daysName = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
@@ -19,7 +19,7 @@ export function mostFrequentDays(year: number): {} {
     }
     console.log(max);
     const sortedDays = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
-    const sortedRes = Object.keys(res).sort((a,b) => sortedDays.indexOf(a) - sortedDays.indexOf(b)).reduce((total,current)=>{
+    const sortedRes = Object.keys(res).sort((a,b) => sortedDays.indexOf(a) - sortedDays.indexOf(b)).reduce((total:any,current:string)=>{
         if(res[current] === max && (!skip || !total.length))
             total.push(current);
         else

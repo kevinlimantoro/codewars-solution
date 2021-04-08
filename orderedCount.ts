@@ -1,4 +1,4 @@
-export const orderedCount = (text: string): [string, number][] => text.split('').reduce((total,current) => {
+export const orderedCount = (text: string): [string, number][] => text.split('').reduce((total: any,current) => {
         var idx = total.findIndex((x : [string,number]) => x[0] === current);
         if(idx > -1) 
             total[idx][1]++;
