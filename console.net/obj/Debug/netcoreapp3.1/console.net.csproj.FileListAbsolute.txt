@@ -1,0 +1,13 @@
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.exe
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.deps.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.runtimeconfig.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.runtimeconfig.dev.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.dll
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\console.net.pdb
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.csprojAssemblyReference.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.AssemblyInfoInputs.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.AssemblyInfo.cs
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.csproj.CoreCompileInputs.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.dll
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.pdb
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\console.net.genruntimeconfig.cache

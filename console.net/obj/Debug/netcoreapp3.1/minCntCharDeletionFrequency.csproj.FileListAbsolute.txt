@@ -1,0 +1,16 @@
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.exe
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.deps.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.runtimeconfig.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.runtimeconfig.dev.json
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.dll
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\minCntCharDeletionFrequency.pdb
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\Solution.dll
+D:\GIT\Research\Codewars-Solution\console.net\bin\Debug\netcoreapp3.1\Solution.pdb
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.csprojAssemblyReference.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.AssemblyInfoInputs.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.AssemblyInfo.cs
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.csproj.CoreCompileInputs.cache
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.csproj.CopyComplete
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.dll
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.pdb
+D:\GIT\Research\Codewars-Solution\console.net\obj\Debug\netcoreapp3.1\minCntCharDeletionFrequency.genruntimeconfig.cache

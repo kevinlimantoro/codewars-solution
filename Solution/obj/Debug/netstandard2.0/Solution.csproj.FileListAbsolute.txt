@@ -1,0 +1,9 @@
+D:\GIT\Research\Codewars-Solution\Solution\bin\Debug\netstandard2.0\Solution.deps.json
+D:\GIT\Research\Codewars-Solution\Solution\bin\Debug\netstandard2.0\Solution.dll
+D:\GIT\Research\Codewars-Solution\Solution\bin\Debug\netstandard2.0\Solution.pdb
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.csprojAssemblyReference.cache
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfoInputs.cache
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.AssemblyInfo.cs
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.csproj.CoreCompileInputs.cache
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.dll
+D:\GIT\Research\Codewars-Solution\Solution\obj\Debug\netstandard2.0\Solution.pdb
