@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace Solution
 {
@@ -7,6 +8,15 @@ namespace Solution
         public int Val;
         public LRNode Left;
         public LRNode Right;
+
+        public static void PrintTraversal(LRNode root)
+        {
+            if (root == null)
+                return;
+            Console.WriteLine(root.Val);
+            PrintTraversal(root.Left);
+            PrintTraversal(root.Right);
+        }
     }
 
     public class CountTheGoodNodes

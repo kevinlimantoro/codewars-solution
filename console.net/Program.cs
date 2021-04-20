@@ -96,6 +96,59 @@ namespace console.net
             Console.WriteLine((int)'0');
             Console.WriteLine((int)'9');
             Console.WriteLine(ReverseOnlyLetters.Process("Test1ng-Leet=code-Q!"));
+            Console.WriteLine("----IsBST----");
+            LRHead = new LRNode()
+            {
+                Val = 10,
+                Left = new LRNode() { Val = 7, Left = new LRNode() { Val = 3 }, Right = new LRNode() { Val = 8 } },
+                Right = new LRNode() { Val = 15, Left = new LRNode() { Val = 9 }, Right = new LRNode() { Val = 17 } }
+            };
+            Console.WriteLine(IsValidBST.Process(LRHead));
+            LRHead = new LRNode()
+            {
+                Val = 10,
+                Left = new LRNode() { Val = 7, Left = new LRNode() { Val = 3 }, Right = new LRNode() { Val = 8 } },
+                Right = new LRNode() { Val = 15, Left = new LRNode() { Val = 19 }, Right = new LRNode() { Val = 17 } }
+            };
+            Console.WriteLine(IsValidBST.Process(LRHead));
+            Console.WriteLine("----RemoveDuplicateAndSort----");
+            Console.WriteLine(RemoveDuplicateAndSort.Process("geekforgeeks"));
+            Console.WriteLine("----WaysOfSum----");
+            foreach (var way in WaysOfSums.Process(3, 5))
+            {
+                Console.WriteLine(string.Join(" ", way));
+            }
+            Console.WriteLine("----PrintLinkedListReversed----");
+            head = new Node(1)
+            {
+                next = new Node(2)
+                {
+                    next = new Node(3)
+                    {
+                        next = new Node(4)
+                        {
+                            next = new Node(5)
+                        }
+                    }
+                }
+            };
+            ReverseLinkedListSimple.PrintReverse(head);
+            head = ReverseLinkedListSimple.ProcessWithLoopCreate(head);
+            Console.WriteLine();
+            ReverseLinkedListSimple.Print(head);
+            head = ReverseLinkedListSimple.ProcessWithStackCreate(head);
+            Console.WriteLine();
+            ReverseLinkedListSimple.Print(head);
+            Console.WriteLine();
+            Console.WriteLine("----BSTSwap----");
+            LRHead = new LRNode()
+            {
+                Val = 10,
+                Left = new LRNode() { Val = 7, Left = new LRNode() { Val = 3 }, Right = new LRNode() { Val = 8 } },
+                Right = new LRNode() { Val = 15, Left = new LRNode() { Val = 19 }, Right = new LRNode() { Val = 17 } }
+            };
+            SwapBST.Process(LRHead);
+            LRNode.PrintTraversal(LRHead);
         }
     }
 }
